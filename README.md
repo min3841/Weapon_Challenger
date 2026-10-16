@@ -13,14 +13,6 @@
 - 플레이 점수 저장 및 웹 랭킹 조회
 - 로그인 후 개인 게임 기록 확인
 
-## 담당 역할
-
-2인 팀 프로젝트에서 웹사이트와 랭킹 기능을 구현하고 게임 개발을 보조했습니다. 팀원은 게임 개발을 담당했습니다.
-
-## 사용 기술
-
-Unity WebGL · Java · Spring MVC · JSP · MySQL · Docker Compose · Caddy
-
 ## 게임 사이트
 
 [Weapon Challenger 2D 웹사이트 열기](https://weapon.gongsilight.com)
